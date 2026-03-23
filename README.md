@@ -1,0 +1,60 @@
+# Alexandra Kay – Painted Him Perfect
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.29] It's hard to say this, and I'm a little embarrassed
+[00:14.13] But you've been asking where my ring is
+[00:18.12] I guess it's time I be honest
+[00:23.07] I gave it four hour drives, fly in for a night
+[00:27.39] Sat through couples therapy, tears in my eyes
+[00:31.60] I'd sing his praises on every stage
+[00:35.01] And he just had to mention he hates the attention
+[00:59.51] 
+[00:40.92] I painted pink skies at sunrise to cover all the blue
+[00:45.22] Hide the shaking ground and storm clouds, so you never knew
+[00:49.20] I drew up excuses and said, "That's what love is"
+[00:53.19] The truth is, yeah, the truth is
+[00:56.26] I painted him perfect
+[01:00.06] I painted him perfect
+[01:10.56] 
+[01:03.64] I had to break it to my parents
+[01:07.11] And Daddy says we don't do divorces
+[01:10.88] But they got it once I told 'em some stories
+[01:13.72] Do you even remember August 14th?
+[01:17.52] Main stage on the beach, Atlantic City?
+[01:20.95] I was singing, he was causing a scene
+[01:24.44] I'll keep the rest between him and me
+[01:42.94] 
+[01:28.51] I painted pink skies at sunrise to cover all the blue
+[01:32.75] Hide the shaking ground and storm clouds, so you never knew
+[01:36.78] I drew up excuses and said, "That's what love is"
+[01:40.83] The truth is, yeah, the truth is
+[01:43.76] I painted him perfect (I painted him)
+[01:47.75] I painted him perfect
+[01:58.25] 
+[01:51.49] You could say I missed some red flags
+[01:54.12] But what it comes down to is
+[01:56.36] I was yellow, he was green
+[01:58.27] And all we ever made was blue
+[02:02.25] I painted pink skies at sunrise to cover all the blue
+[02:06.56] Hide the shaking ground and storm clouds, so you never knew
+[02:10.41] I drew up excuses and said, "That's what love is"
+[02:14.47] But that's not what love is
+[02:27.97] 
+[02:16.83] I shouldn't have to paint pink skies at sunrise
+[02:20.40] To cover all the blue (to cover all the blue)
+[02:22.47] Hide the shaking ground and storm clouds
+[02:24.75] So you never knew (you never knew, yeah)
+[02:26.42] I drew up excuses and said, "That's what love is"
+[02:30.40] The truth is, yeah, the truth is
+[02:33.15] I painted him perfect
+[02:37.11] I painted him perfect (I painted him), no, no
+[02:59.61] 
+[02:41.48] He didn't deserve it (I painted him)
+[02:45.11] But I painted him perfect (I painted him perfect)
+[02:49.36] I painted him (I probably shouldn't have, I shouldn't have to do this)
+[02:53.28] (I painted him, I shouldn't have, I painted out excuses)
+[02:59.09] I painted him
+[03:02.98] (I shouldn't have to paint)
+```
