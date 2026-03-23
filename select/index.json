@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Painted Him Perfect",
+  "base_artist": "Alexandra Kay",
+  "createdAt": "2026-03-23T13:11:57.370010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Painted Him Perfect",
+      "artist": "Alexandra Kay",
+      "has_synced": true,
+      "path": "select/01_Painted_Him_Perfect_Alexandra_Kay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Painted Him Perfect",
+      "artist": "Alexandra Kay",
+      "has_synced": true,
+      "path": "select/02_Painted_Him_Perfect_Alexandra_Kay.lrc"
+    }
+  ]
+}
